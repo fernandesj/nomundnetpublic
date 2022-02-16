@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Autarquias - Tag - Top Sites</title>
+        <link>/tags/autarquias/</link>
+        <description>Autarquias - Tag - Top Sites</description>
+        <generator>Hugo -- gohugo.io</generator><language>pt-BR</language><managingEditor>adf@nomundo.net (Associação Domínio Fácil)</managingEditor>
+            <webMaster>adf@nomundo.net (Associação Domínio Fácil)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 15 Feb 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="/tags/autarquias/" rel="self" type="application/rss+xml" /><item>
+    <title>TOP Sites das Autarquias</title>
+    <link>/top_autarquias/</link>
+    <pubDate>Tue, 15 Feb 2022 00:00:00 &#43;0000</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>/top_autarquias/</guid>
+    <description><![CDATA[<p>Consultar o TOP das melhores presenças na WEB das Autarquias em Portugal. Registe aqui o site da sua autarquia para ser avaliado.</p>]]></description>
+</item>
+</channel>
+</rss>
