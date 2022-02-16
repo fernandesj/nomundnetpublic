@@ -1,33 +1,33 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Top Sites</title>
-        <link>/</link>
+        <link>https://nomundo.net/</link>
         <description>About</description>
         <generator>Hugo -- gohugo.io</generator><language>pt-BR</language><managingEditor>adf@nomundo.net (Associação Domínio Fácil)</managingEditor>
             <webMaster>adf@nomundo.net (Associação Domínio Fácil)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 15 Feb 2022 16:29:41 &#43;0800</lastBuildDate>
-            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://nomundo.net/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>TOP Sites das Autarquias</title>
-    <link>/top_autarquias/</link>
-    <pubDate>Tue, 15 Feb 2022 00:00:00 &#43;0000</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>/top_autarquias/</guid>
+    <link>https://nomundo.net/top_autarquias/</link>
+    <pubDate>Tue, 15 Feb 2022 00:00:00 &#43;0000</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>https://nomundo.net/top_autarquias/</guid>
     <description><![CDATA[<p>Consultar o TOP das melhores presenças na WEB das Autarquias em Portugal. Registe aqui o site da sua autarquia para ser avaliado.</p>]]></description>
 </item>
 <item>
     <title>TOP sites das Juntas de Freguesia</title>
-    <link>/top-juntas/</link>
-    <pubDate>Tue, 15 Feb 2022 15:58:26 &#43;0800</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>/top-juntas/</guid>
+    <link>https://nomundo.net/top-juntas/</link>
+    <pubDate>Tue, 15 Feb 2022 15:58:26 &#43;0800</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>https://nomundo.net/top-juntas/</guid>
     <description><![CDATA[<p>TOP dos sites oficiais das Juntas de Freguesia de Portugal. Já pode registar a sua presença a concurso.</p>]]></description>
 </item>
 <item>
     <title>Top Presença WEB Empresas</title>
-    <link>/top-empresas/</link>
-    <pubDate>Tue, 15 Feb 2022 16:29:41 &#43;0800</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>/top-empresas/</guid>
+    <link>https://nomundo.net/top-empresas/</link>
+    <pubDate>Tue, 15 Feb 2022 16:29:41 &#43;0800</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>https://nomundo.net/top-empresas/</guid>
     <description><![CDATA[<p>Consultar e Registar Site Principal das Grandes Empresas Portuguesas e para publicação do ranking final por categorias e parâmetros.</p>]]></description>
 </item>
 <item>
     <title>Top Sites Pequenas e Médias empresas</title>
-    <link>/top-pequenas-empresas/</link>
-    <pubDate>Tue, 15 Feb 2022 00:00:00 &#43;0000</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>/top-pequenas-empresas/</guid>
+    <link>https://nomundo.net/top-pequenas-empresas/</link>
+    <pubDate>Tue, 15 Feb 2022 00:00:00 &#43;0000</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>https://nomundo.net/top-pequenas-empresas/</guid>
     <description><![CDATA[<p>Consultar e Registar sites de empresas no TOP de Sites para Pequenas e Média Empresas</p>]]></description>
 </item>
 </channel>

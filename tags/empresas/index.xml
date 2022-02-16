@@ -1,19 +1,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Empresas - Tag - Top Sites</title>
-        <link>/tags/empresas/</link>
+        <link>https://nomundo.net/tags/empresas/</link>
         <description>Empresas - Tag - Top Sites</description>
         <generator>Hugo -- gohugo.io</generator><language>pt-BR</language><managingEditor>adf@nomundo.net (Associação Domínio Fácil)</managingEditor>
-            <webMaster>adf@nomundo.net (Associação Domínio Fácil)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 15 Feb 2022 16:29:41 &#43;0800</lastBuildDate><atom:link href="/tags/empresas/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>adf@nomundo.net (Associação Domínio Fácil)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 15 Feb 2022 16:29:41 &#43;0800</lastBuildDate><atom:link href="https://nomundo.net/tags/empresas/" rel="self" type="application/rss+xml" /><item>
     <title>Top Presença WEB Empresas</title>
-    <link>/top-empresas/</link>
-    <pubDate>Tue, 15 Feb 2022 16:29:41 &#43;0800</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>/top-empresas/</guid>
+    <link>https://nomundo.net/top-empresas/</link>
+    <pubDate>Tue, 15 Feb 2022 16:29:41 &#43;0800</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>https://nomundo.net/top-empresas/</guid>
     <description><![CDATA[<p>Consultar e Registar Site Principal das Grandes Empresas Portuguesas e para publicação do ranking final por categorias e parâmetros.</p>]]></description>
 </item>
 <item>
     <title>Top Sites Pequenas e Médias empresas</title>
-    <link>/top-pequenas-empresas/</link>
-    <pubDate>Tue, 15 Feb 2022 00:00:00 &#43;0000</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>/top-pequenas-empresas/</guid>
+    <link>https://nomundo.net/top-pequenas-empresas/</link>
+    <pubDate>Tue, 15 Feb 2022 00:00:00 &#43;0000</pubDate><author>adf@nomundo.net (Associação Domínio Fácil)</author><guid>https://nomundo.net/top-pequenas-empresas/</guid>
     <description><![CDATA[<p>Consultar e Registar sites de empresas no TOP de Sites para Pequenas e Média Empresas</p>]]></description>
 </item>
 </channel>
