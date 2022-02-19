@@ -22,11 +22,11 @@ O prazo para Inscrição Oficial das Juntas de Freguesia decorre de Janeiro a Ju
 
 ## 3 Inscrição Oficiosa
 
-A inscrição oficiosa/Livre será admitida apenas a partir de Julho, das JF que não tenham inscrição oficial e pode ser feita por qualquer pessoa ou entidade ou pela organização do evento. 
+A inscrição oficiosa/Livre é grátis e pode ser registada por qualquer pessoa, entidade ou pela organização do evento. Só serão admitidas inscrições oficiosas caso não haja registo oficial. 
 
-## 4 Formulário de Inscrição Oficial
+## 4 Formulário de Inscrição
 
-Para fazer a inscrição oficial de uma Junta de Freguesia neste concurso, basta preencher o formulário em baixo e submeter.
+Para fazer a inscrição de uma Junta de Freguesia neste concurso, basta preencher o formulário em baixo e submeter.
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvLWGDsgwn5swQUTMZEgGcRRkpG-0WHL3Xze8axRl5dvUTzg/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">A carregar…</iframe>

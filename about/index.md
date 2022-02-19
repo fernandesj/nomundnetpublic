@@ -41,15 +41,14 @@ Em cada ano civil o TOP Sites dividirá o concurso em 4 fases:
 * Publicação do Regulamento
 * Inscrições Oficiais
 
-2º Fase - Inscrições Oficiosas - Julho a Agosto
-* Divulgação da lista de inscrições oficiais
-* Inscrições Oficiosas (inscrições livres)
+2º Fase - Divulgação - Julho a Agosto
+* Divulgação da Lista Provisória de inscrições
 * Divulgação do Juri
 
 3º Fase - Nomeações - Setembro  
-* Publicação das Listas de Concorrentes
+* Publicação da Lista Definitiva de Concorrentes
 * Reunião do Juri e decisão dos nomeados
-* Divulgação dos nomeados para o top sites
+* Divulgação dos nomeados para o top sites (10 por categoria)
 
 4º Fase - Prémios - Outubro
 * Sessão Pública de atribuição de prémios aos primeiros classificados de cada categoria
@@ -57,10 +56,10 @@ Em cada ano civil o TOP Sites dividirá o concurso em 4 fases:
 
 ### Inscrições
 Custo das inscrições oficiais:
-* Grandes Empresas e Autarquias - 350€
-* Pequenas/Médias Empresas e JF - 100€
+* Grandes Empresas e Autarquias - 75€
+* Pequenas/Médias Empresas e JF - 25€
 
-As inscrições Livres/Oficiosas podem ser registadas a partir de Julho, para sites que não foram registados oficialmente e esse registo não tem qualquer custo. 
+As inscrições Livres/Oficiosas podem ser registadas por qualquer pessoa e não tem qualquer custo. 
 
 ### Prémios
 Os prémios serão entregues em cerimónia pública ao representante da entidade oficial (Presidente Autarquia, Presidente de JF, CEO ou Empresário) ou à pessoa indicada no registo no caso de inscrições oficiosas.
